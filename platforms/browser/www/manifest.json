@@ -4,8 +4,8 @@
   "name": "HelloCordova",
   "short_name": "HelloCordova",
   "version": "io.cordova.hellocordova",
-  "description": "APP desenvolvido acompanhando o livro de Cordova/PhoneGap da aula de Programacao para Dispositivos Moveis, FATEC Carapicuiba, ADS, horário noturno.",
-  "author": "Apache Cordova Team",
+  "description": "APP para aula de Programacao para Dispositivos Moveis por Luiza Kobayashi, aluna da Fatec Carapicuiba - Noite",
+  "author": "Luiza Kobayashi",
   "icons": [],
   "start_url": "index.html"
 }
